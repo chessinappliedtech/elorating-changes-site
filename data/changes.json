@@ -1,0 +1,50 @@
+[ {
+  "playerId" : "alexander.brezgin",
+  "rapid" : 1441.80
+}, {
+  "playerId" : "alexander.shkabara",
+  "rapid" : 1586.20,
+  "blitz" : 1504.40
+}, {
+  "playerId" : "alexey.biryukov",
+  "rapid" : 1506.60,
+  "blitz" : 1540.0
+}, {
+  "playerId" : "alexey.matveev",
+  "rapid" : 1551.40,
+  "blitz" : 1615.60
+}, {
+  "playerId" : "alexey.polurotov",
+  "rapid" : 1516.60
+}, {
+  "playerId" : "alexey.shklyar",
+  "rapid" : 1434.40,
+  "blitz" : 1440.0
+}, {
+  "playerId" : "anatoly.morozov",
+  "rapid" : 1493.80,
+  "blitz" : 1480.0
+}, {
+  "playerId" : "ilya.maltsev",
+  "rapid" : 1577.40,
+  "blitz" : 1620.0
+}, {
+  "playerId" : "mikhail.egorov",
+  "rapid" : 1451.80
+}, {
+  "playerId" : "pavel.davydov"
+}, {
+  "playerId" : "alexander.panchenko"
+}, {
+  "playerId" : "viktor.bornov",
+  "rapid" : 1470.0
+}, {
+  "playerId" : "alexey.shimeshov",
+  "rapid" : 1470.0,
+  "blitz" : 1420.0
+}, {
+  "playerId" : "ivan.klyavin"
+}, {
+  "playerId" : "vladimir.kudryakov",
+  "blitz" : 1380.0
+} ]

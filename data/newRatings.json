@@ -1,0 +1,95 @@
+[ {
+  "playerId" : "alexander.brezgin",
+  "classicRatingChange" : null,
+  "classicGamesCount" : 0,
+  "rapidRatingChange" : {
+    "value" : -58.20
+  },
+  "rapidGamesCount" : 8,
+  "blitzRatingChange" : null,
+  "blitzGamesCount" : 0
+}, {
+  "playerId" : "alexander.shkabara",
+  "classicRatingChange" : null,
+  "classicGamesCount" : 0,
+  "rapidRatingChange" : {
+    "value" : 86.20
+  },
+  "rapidGamesCount" : 12,
+  "blitzRatingChange" : {
+    "value" : -15.60
+  },
+  "blitzGamesCount" : 2
+}, {
+  "playerId" : "alexey.biryukov",
+  "classicRatingChange" : null,
+  "classicGamesCount" : 0,
+  "rapidRatingChange" : {
+    "value" : -13.40
+  },
+  "rapidGamesCount" : 8,
+  "blitzRatingChange" : null,
+  "blitzGamesCount" : 0
+}, {
+  "playerId" : "alexey.matveev",
+  "classicRatingChange" : null,
+  "classicGamesCount" : 0,
+  "rapidRatingChange" : {
+    "value" : 31.40
+  },
+  "rapidGamesCount" : 12,
+  "blitzRatingChange" : {
+    "value" : 15.60
+  },
+  "blitzGamesCount" : 2
+}, {
+  "playerId" : "alexey.polurotov",
+  "classicRatingChange" : null,
+  "classicGamesCount" : 0,
+  "rapidRatingChange" : {
+    "value" : -3.40
+  },
+  "rapidGamesCount" : 8,
+  "blitzRatingChange" : null,
+  "blitzGamesCount" : 0
+}, {
+  "playerId" : "alexey.shklyar",
+  "classicRatingChange" : null,
+  "classicGamesCount" : 0,
+  "rapidRatingChange" : {
+    "value" : -15.60
+  },
+  "rapidGamesCount" : 12,
+  "blitzRatingChange" : null,
+  "blitzGamesCount" : 0
+}, {
+  "playerId" : "anatoly.morozov",
+  "classicRatingChange" : null,
+  "classicGamesCount" : 0,
+  "rapidRatingChange" : {
+    "value" : 3.80
+  },
+  "rapidGamesCount" : 8,
+  "blitzRatingChange" : null,
+  "blitzGamesCount" : 0
+}, {
+  "playerId" : "ilya.maltsev",
+  "classicRatingChange" : null,
+  "classicGamesCount" : 0,
+  "rapidRatingChange" : {
+    "value" : 17.40
+  },
+  "rapidGamesCount" : 12,
+  "blitzRatingChange" : null,
+  "blitzGamesCount" : 0
+}, {
+  "playerId" : "mikhail.egorov",
+  "classicRatingChange" : null,
+  "classicGamesCount" : 0,
+  "rapidRatingChange" : {
+    "value" : -48.20
+  },
+  "rapidGamesCount" : 8,
+  "blitzRatingChange" : null,
+  "blitzGamesCount" : 0
+} ]
