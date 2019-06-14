@@ -2,94 +2,70 @@
   "playerId" : "alexander.brezgin",
   "classicRatingChange" : null,
   "classicGamesCount" : 0,
-  "rapidRatingChange" : {
-    "value" : -58.20
+  "rapidRatingChange" : null,
+  "rapidGamesCount" : 0,
+  "blitzRatingChange" : {
+    "value" : -88.80
   },
-  "rapidGamesCount" : 8,
-  "blitzRatingChange" : null,
-  "blitzGamesCount" : 0
+  "blitzGamesCount" : 12
 }, {
   "playerId" : "alexander.shkabara",
   "classicRatingChange" : null,
   "classicGamesCount" : 0,
-  "rapidRatingChange" : {
-    "value" : 86.20
-  },
-  "rapidGamesCount" : 12,
+  "rapidRatingChange" : null,
+  "rapidGamesCount" : 0,
   "blitzRatingChange" : {
-    "value" : -14.00
+    "value" : 9.20
   },
-  "blitzGamesCount" : 2
+  "blitzGamesCount" : 12
 }, {
   "playerId" : "alexey.biryukov",
   "classicRatingChange" : null,
   "classicGamesCount" : 0,
-  "rapidRatingChange" : {
-    "value" : -13.40
+  "rapidRatingChange" : null,
+  "rapidGamesCount" : 0,
+  "blitzRatingChange" : {
+    "value" : -24.80
   },
-  "rapidGamesCount" : 8,
-  "blitzRatingChange" : null,
-  "blitzGamesCount" : 0
+  "blitzGamesCount" : 12
 }, {
   "playerId" : "alexey.matveev",
   "classicRatingChange" : null,
   "classicGamesCount" : 0,
-  "rapidRatingChange" : {
-    "value" : 31.40
-  },
-  "rapidGamesCount" : 12,
+  "rapidRatingChange" : null,
+  "rapidGamesCount" : 0,
   "blitzRatingChange" : {
-    "value" : 14.00
+    "value" : 7.60
   },
-  "blitzGamesCount" : 2
-}, {
-  "playerId" : "alexey.polurotov",
-  "classicRatingChange" : null,
-  "classicGamesCount" : 0,
-  "rapidRatingChange" : {
-    "value" : -3.40
-  },
-  "rapidGamesCount" : 8,
-  "blitzRatingChange" : null,
-  "blitzGamesCount" : 0
+  "blitzGamesCount" : 12
 }, {
   "playerId" : "alexey.shklyar",
   "classicRatingChange" : null,
   "classicGamesCount" : 0,
-  "rapidRatingChange" : {
-    "value" : -15.60
+  "rapidRatingChange" : null,
+  "rapidGamesCount" : 0,
+  "blitzRatingChange" : {
+    "value" : -46.40
   },
-  "rapidGamesCount" : 12,
-  "blitzRatingChange" : null,
-  "blitzGamesCount" : 0
+  "blitzGamesCount" : 12
 }, {
   "playerId" : "anatoly.morozov",
   "classicRatingChange" : null,
   "classicGamesCount" : 0,
-  "rapidRatingChange" : {
-    "value" : 3.80
+  "rapidRatingChange" : null,
+  "rapidGamesCount" : 0,
+  "blitzRatingChange" : {
+    "value" : 58.00
   },
-  "rapidGamesCount" : 8,
-  "blitzRatingChange" : null,
-  "blitzGamesCount" : 0
+  "blitzGamesCount" : 12
 }, {
   "playerId" : "ilya.maltsev",
   "classicRatingChange" : null,
   "classicGamesCount" : 0,
-  "rapidRatingChange" : {
-    "value" : 17.40
+  "rapidRatingChange" : null,
+  "rapidGamesCount" : 0,
+  "blitzRatingChange" : {
+    "value" : 85.20
   },
-  "rapidGamesCount" : 12,
-  "blitzRatingChange" : null,
-  "blitzGamesCount" : 0
-}, {
-  "playerId" : "mikhail.egorov",
-  "classicRatingChange" : null,
-  "classicGamesCount" : 0,
-  "rapidRatingChange" : {
-    "value" : -48.20
-  },
-  "rapidGamesCount" : 8,
-  "blitzRatingChange" : null,
-  "blitzGamesCount" : 0
+  "blitzGamesCount" : 12
 } ]
